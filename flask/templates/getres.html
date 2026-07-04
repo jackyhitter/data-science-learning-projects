@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Result Form</title>
+</head>
+<body>
+    <h2>Enter your marks to check if you have passed or failed</h2>
+    <form action="/submit" method="POST">
+        <label for="science"> Science : </label> <br>
+        <input type="text" name="science" id="science" value="0"> <br>
+        <label for="maths"> Maths : </label> <br>
+        <input type="text" name="maths" id="maths" value="0"> <br>
+        <label for="english"> English : </label> <br>
+        <input type="text" name="english" id="english" value="0">
+        <input type="submit" value="Submit">
+    </form>
+
+    <p> If you click the "submit" button, the form-data will be sent to a page called "/submit"</p>
+</body>
+</html>

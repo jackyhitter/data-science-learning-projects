@@ -1,0 +1,69 @@
+# Ignore folders you don't want on GitHub
+assignment/
+codes/
+environments/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+
+myenv/
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment Variables
+.env
+
+# Secret files
+*.pem
+*.key
+*.crt
+*.pfx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+
+# Cache
+.cache/
+
+# Testing
+.pytest_cache/
+
+# Coverage
+.coverage
+
+# Model checkpoints (optional)
+*.h5
+*.ckpt
+*.pth
+*.pt
+
+# Dataset (optional)
+data/
+datasets/
+
+# Large files
+*.zip
+*.tar
+*.gz
