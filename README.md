@@ -5,13 +5,21 @@ Learning. Building. Breaking things. Fixing them. Repeating.
 </p>
 
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws)
-
+  <a href="#-about">
+    <img src="https://img.shields.io/badge/About-6E40C9?style=for-the-badge" />
+  </a>
+  <a href="#-whats-inside">
+    <img src="https://img.shields.io/badge/Learning-3FB950?style=for-the-badge" />
+  </a>
+  <a href="#-tech-stack">
+    <img src="https://img.shields.io/badge/Tech-0969DA?style=for-the-badge" />
+  </a>
+  <a href="#-currently-learning">
+    <img src="https://img.shields.io/badge/Roadmap-FF8C00?style=for-the-badge" />
+  </a>
+  <a href="#-future-additions">
+    <img src="https://img.shields.io/badge/Future-EA4AAA?style=for-the-badge" />
+  </a>
 </p>
 
 ---
