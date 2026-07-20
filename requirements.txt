@@ -9,3 +9,5 @@ flask
 streamlit
 seaborn
 ipympl
+plotly
+nbformat
